@@ -1,5 +1,6 @@
-layout_spectrum: 0.2530270873103291
 typography_spectrum: 0.2252268404699862
+content_rating:
+  adult: true
 color:
   brandStrength: 0.7812926322221756
   lightness: 0.5496921881567687
@@ -11,4 +12,12 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
+opengraph:
+  appId: babetones
+layout_spectrum: 0.2530270873103291
+author:
+  name: Jonathan Wilson
+  email: jontheoptimist@gmail.com
+  url: www.babetones.com
 name: BABE
+title: Ether/Ore
